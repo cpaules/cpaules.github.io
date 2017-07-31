@@ -1,0 +1,21 @@
+# Site settings
+title: My Flatiron Adventure
+header-img: img/home-bg.png
+email: cpaules@gmail.com
+copyright_name: cpaules
+description: > # this means to ignore newlines until "baseurl:"
+  Chasing A Career Change
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  cpaules
+learn_profile: cpaules
+email_username: cpaules@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
