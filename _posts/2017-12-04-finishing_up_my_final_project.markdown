@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finishing Up My Final Project"
-date:       2017-12-05 01:35:22 +0000
+date:       2017-12-04 20:35:23 -0500
 permalink:  finishing_up_my_final_project
 ---
 
